@@ -1,7 +1,7 @@
 ### Hi, I'm Willian 👋 :man_technologist:
-
-![](https://hit.yhype.me/github/profile?account_id=7083291&&style=for-the-badge&color=lightgrey&label=PROFILE+VIEWS)
-
+<!--
+![](https://hit.yhype.me/github/profile?account_id=7083291&&style=for-the-badge&color=lightgrey)
+-->
 Software Developer Ruby & Ruby on Rails, JavaScript & React and continuously learning.
 
 
