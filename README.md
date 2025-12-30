@@ -1,5 +1,7 @@
 ### Hi, I'm Willian 👋 :man_technologist:
 
+![](https://hit.yhype.me/github/profile?account_id=7083291&&style=for-the-badge&color=lightgrey&label=PROFILE+VIEWS)
+
 Software Developer Ruby & Ruby on Rails, JavaScript & React and continuously learning.
 
 
@@ -25,3 +27,4 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
+
